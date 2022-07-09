@@ -1,0 +1,42 @@
+.header {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-top: 164px;
+  padding-bottom: 80px;
+  background-image: url('../images/cleaner1_21-copy 1.jpg');
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+// .container {
+// }
+// .row {
+// }
+// .col-md-4 {
+// }
+.subtitle {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  color: $btn-bg-color;
+}
+
+.hero-title {
+  font-size: 40px;
+  line-height: 47px;
+  color: $main-text-color;
+  margin: 25px 0;
+}
+
+.hero-button {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: $secondary-text-color;
+}
+
+.button {
+  background-color: $btn-bg-color;
+  padding: 20px 98px;
+  border-radius: 4px;
+  border: none;
+}
